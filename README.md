@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Top interest's
+### 〢 Top interest's
 
 * C#   
 * Visual Basic
