@@ -3,11 +3,13 @@
 Top interest's
 
 * C#   
+* Visual Basic
 * Golang    
 * Rust
 * Kotlin
 * Javascript
 * Java
+* C++
 * PHP
 * Windows Internals
 * Reverse Engeneering
