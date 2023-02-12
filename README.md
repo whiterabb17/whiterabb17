@@ -15,9 +15,12 @@
 * Exploit Development
 * Red-Teamer
 
-[![whiterabb17's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterabb17&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterabb17&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/whiterabb17/whiterabb17">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whiterabb17&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/whiterabb17/whiterabb17">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiterabb17&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
 <!--
 **whiterabb17/whiterabb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
