@@ -14,6 +14,7 @@
 * Cross-Platform Malware Development
 * Exploit Development
 * Red-Teamer
+* Cyber Security
 
 <a href="https://github.com/whiterabb17/whiterabb17">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=whiterabb17&count_private=true&show_icons=true&theme=chartreuse-dark" />
