@@ -16,12 +16,8 @@
 * Red-Teamer
 * Cyber Security
 
-<a href="https://github.com/whiterabb17/whiterabb17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whiterabb17&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/whiterabb17/whiterabb17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiterabb17&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=whiterabb17)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiterabb17)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **whiterabb17/whiterabb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
